@@ -2,6 +2,12 @@
 
 # I'm J S Venkat
 ## Student at Aditya Engineering College
+
+# My Coding profiles
+Leetcode : https://leetcode.com/sai_venkat_j/
+GeeksforGeeks : https://auth.geeksforgeeks.org/user/saivenkatjavvadi666/practice
+Codechef : https://www.codechef.com/users/sai_venkat_j
+HackerRank : https://www.hackerrank.com/20A91A0481
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
