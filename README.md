@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-#I'm J S Venkat
+# I'm J S Venkat
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
