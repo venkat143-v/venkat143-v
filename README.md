@@ -1,10 +1,10 @@
 ### Hi there 👋
+# I'm J S Venkat
+# Student at Aditya Engineering College
 
-
-#I'm J S Venkat
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
