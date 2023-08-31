@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # I'm J S Venkat
+# Student at Aditya Engineering College
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
