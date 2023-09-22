@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently purusing my graduation B-Tech in the stream of ECE.
 
 # My Projects
-[Customized ChatBot](https://github.com/venkat143-v/Ml_project_chatbot) |
+[Customized Chatbot_chaTH](https://github.com/venkat143-v/customized_chatbot_chaTH) |
 [Binary Classification of Cat-Dog](https://github.com/venkat143-v/Classification_of_cat-dog)
 
